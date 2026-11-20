@@ -45,6 +45,9 @@ This repository contains the source of truth for all operations of {{COMPANY_NAM
 | ⚙️ Operations | `operations/` | Governance, security, credential-map. |
 | 📊 Reports | `reports/` | Daily and weekly reports. |
 | 🏰 Guilds | `guilds/` | Team structures and responsibilities. |
+| 🌍 Worlds | `worlds/` | The 3D worlds: sources and published versions. |
+| 📅 Calendar | `calendar/` | One file per gathering, times in UTC. |
+| 📚 Documents | `documents/` | The archive and the chronicle of each gathering. |
 
 ---
 
